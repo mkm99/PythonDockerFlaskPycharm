@@ -8,3 +8,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![display_data_using_html](screenshots/displayUsingHTML.png)
 # Postman Screenshot using HTML to display data in tables
 ![postman_html](screenshots/postmanHTML.png)
+
+# Lesson 3
