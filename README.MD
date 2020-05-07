@@ -39,6 +39,8 @@ This is part 2 of the Final Project
 ![display_record_postman](screenshots/lesson4/display_record_postman.png)
 # Create a new record using Postman - POST request
 ![make_new_record_postman](screenshots/lesson4/create_record_postman.png)
+# Display new record created
+![display_new_record_postman](screenshots/lesson4/display_new_record.png)
 # Update a record using Postman - PUT request
 ![update_record_postman](screenshots/lesson4/update_record_postman.png)
 # Delete a record using Postman - DELETE request 
