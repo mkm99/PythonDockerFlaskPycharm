@@ -9,6 +9,8 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 # Postman Screenshot using HTML to display data in tables
 ![postman_html](screenshots/postmanHTML.png)
 
+-----------------------------------------------------------------------
+
 # Lesson 3
 This is part 1 of the Final Project
 # Data table in Pycharm
@@ -25,3 +27,21 @@ This is part 1 of the Final Project
 ![record_update](screenshots/lesson3/record_update.png)
 # Deletion of Record displayed in Chrome
 ![record_delete](screenshots/lesson3/record_delete.png)
+
+
+-----------------------------------------------------------------------
+
+# Lesson 4
+This is part 2 of the Final Project
+# Display data with Postman
+![display_data_postman](screenshots/lesson4/display_data_postman.png)
+# Display one record with Postman - GET request
+![display_record_postman](screenshots/lesson4/display_record_postman.png)
+# Create a new record using Postman - POST request
+![make_new_record_postman](screenshots/lesson4/create_record_postman.png)
+# Update a record using Postman - PUT request
+![update_record_postman](screenshots/lesson4/update_record_postman.png)
+# Delete a record using Postman - DELETE request 
+![delete_record_postman](screenshots/lesson4/delete_record_1.png)
+# Display data without deleted record
+![deleted_record_postman](screenshots/lesson4/display_data_without_deleted_record.png)
